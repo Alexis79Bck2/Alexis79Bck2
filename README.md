@@ -1,5 +1,12 @@
 ![Banner-Portada](Banner-Portada-Linkedin-Github.png) 
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white )
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white )
+![Livewire](https://img.shields.io/badge/livewire-%23FF2D20.svg?style=for-the-badge&logo=livewire&logoColor=white )
+![SQL](https://img.shields.io/badge/database-%2333A30.svg?style=for-the-badge&logo=database&logoColor=white )
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=white )
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB )
+
 
 # 👨‍💻 ¡Hola, soy **Alexis Eduardo Mata**!  
 Soy un **desarrollador Laravel FullStack** apasionado por construir aplicaciones web escalables, seguras y modernas. Me encanta transformar ideas en código funcional y eficiente 💡.
