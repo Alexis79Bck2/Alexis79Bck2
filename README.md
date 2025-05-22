@@ -1,3 +1,4 @@
+![Fullstack BG](fullstack-bg-linkedin.png) 
 ![Alexis Mata Logo](Alexis-Mata-Logo.png) 
 
 # 👨‍💻 ¡Hola, soy **Alexis Eduardo Mata**!  
