@@ -1,4 +1,4 @@
-![Fullstack BG](fullstack-bg-linkedin.jpg) 
+![Fullstack BG](fullstack-bg-linkedin.jpeg) 
 
 ![Alexis Mata Logo](Alexis-Mata-Logo.png) 
 
