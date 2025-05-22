@@ -1,4 +1,4 @@
-![Banner-Portada](Banner-Portada-Linkedin-Github.jpg) 
+![Banner-Portada](Banner-Portada-Linkedin-Github.png) 
 
 
 # 👨‍💻 ¡Hola, soy **Alexis Eduardo Mata**!  
