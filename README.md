@@ -83,6 +83,6 @@ Estoy constantemente mejorando mis habilidades frontend para ofrecer interfaces 
 Si tienes un proyecto interesante, quieres colaborar o simplemente intercambiar conocimientos, no dudes en contactarme:
 
 📧 Email: [alexis.ed.mata@gmail.com]  
-📱 LinkedIn: [linkedin.com/in/tuperfil]  
+📱 LinkedIn: [Perfil en LinkedIn](https://www.linkedin.com/in/alexis-eduardo-mata/)]  
 🐙 GitHub: [@Alexis79Bck2]
 
