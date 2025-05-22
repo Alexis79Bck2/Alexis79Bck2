@@ -1,6 +1,5 @@
-![Fullstack BG](fullstack-bg-linkedin.jpeg) 
+![Banner-Portada](banner-portada-linkedin-github.jpeg) 
 
-![Alexis Mata Logo](Alexis-Mata-Logo.png) 
 
 # 👨‍💻 ¡Hola, soy **Alexis Eduardo Mata**!  
 Soy un **desarrollador Laravel FullStack** apasionado por construir aplicaciones web escalables, seguras y modernas. Me encanta transformar ideas en código funcional y eficiente 💡.
